@@ -1,0 +1,9 @@
+build/
+dist/
+target/
+*.mv.db
+*.trace.db
+nutriplanner.properties
+.idea/
+*.iml
+.vscode/
